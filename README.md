@@ -33,35 +33,11 @@ To run the code locally, follow these instructions:
 3. Execute the main script: `python main.py`
 
 ## Results:
-The results of the analysis/model implementation are presented below:
+![OUTPUT]()
 
-- **Accuracy**: [Value]
-- **Precision**: [Value]
-- ...
 
-Portfolio profits from backtesting the strategy on past data are summarized as follows:
 
-[Summary of profits]
 
-## EDA (Exploratory Data Analysis):
-Key insights extracted from exploratory data analysis:
-
-- [Insight 1]
-- [Insight 2]
-- ...
-
-Visualizations supporting the findings are available in the [Visualization Folder/File].
-
-## Feature Extraction:
-Description of feature extraction techniques applied:
-
-- [Technique 1]
-- [Technique 2]
-- ...
-
-Value extracted from feature extraction and its relevance:
-
-[Description of value extracted]
 
 ## Model/Strategy Implemented:
 Details of the model or strategy implemented:
