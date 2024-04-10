@@ -33,7 +33,7 @@ To run the code locally, follow these instructions:
 3. Execute the main script: `python main.py`
 
 ## Results:
-![OUTPUT](output_trading.png)
+![OUTPUT]([output_trading.png](https://github.com/MrResilient/Quant-Trading-Assignment/blob/main/output_trading.png))
 
 
 
