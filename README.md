@@ -33,7 +33,7 @@ To run the code locally, follow these instructions:
 3. Execute the main script: `python main.py`
 
 ## Results:
-![OUTPUT]()
+![OUTPUT](output_trading.png)
 
 
 
