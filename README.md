@@ -3,7 +3,7 @@
 ## GitHub Repository: [Your Repository Link]
 
 ## Introduction:
-This repository contains the code and results for the quant trading assignment, focusing on 
+This repository contains the code and results for the quant trading assignment, focusing on simulating trading using reinforcement learning.and evalutating agent performance.
 
 ## Data:
 The dataset used for analysis or model training is described below: SPY_2018.csv
