@@ -1,6 +1,6 @@
 # Quant-Trading-Assignment Submission
 
-## GitHub Repository: [[Your Repository Link](https://github.com/MrResilient/Quant-Trading-Assignment)]
+## GitHub Repository: https://github.com/MrResilient/Quant-Trading-Assignment
 
 ## Introduction:
 This repository contains the code and results for the quant trading assignment, focusing on simulating trading using reinforcement learning.and evalutating agent performance.
